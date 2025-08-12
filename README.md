@@ -26,5 +26,8 @@ This contract serves as a base layer for building more advanced NFT applications
 - Integrate with decentralized storage like IPFS for asset hosting.
 
 ## 5. Contract Address
+ST8EY3FEJN2DWHYHYCDMKART3M9387V8Q2YMK3K2.digital-collectibles
+
+## 6. Contract
 <img width="1915" height="1079" alt="Screenshot 2025-08-12 145135" src="https://github.com/user-attachments/assets/a17a6a45-a60f-44c2-b409-64499750fab6" />
 
