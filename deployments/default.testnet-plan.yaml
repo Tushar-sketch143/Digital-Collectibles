@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: digital-collectibles
+            expected-sender: ST8EY3FEJN2DWHYHYCDMKART3M9387V8Q2YMK3K2
+            cost: 11050
+            path: "contracts\\digital-collectibles.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
